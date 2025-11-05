@@ -2,6 +2,7 @@
 Hello, world!
 Task tracker is a project used to track and manage your tasks. It is a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on.
 This tool was created utilizing the <b>python3 standard library</b>.
+- <b>project url: [task-cli](https://roadmap.sh/projects/task-tracker)</b>
 
 ## Prerequisites
 - python3 >= 3.12.0
